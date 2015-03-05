@@ -1,4 +1,4 @@
-'BALI  BRAWL:  GAMELAN  FOREST
+BALI  BRAWL:  GAMELAN  FOREST
 _________________________________________________
 
 You  are  a  fearless  fighter  who  ventures  out
@@ -98,4 +98,4 @@ _________________________________________________
 
 Bali Brawl: Gamelan Forest
 Coded  by  Stephen  Burgess, 2012
-Music  from  Abian  Kapas  Kaja  Gamelan  Kebyar'
+Music  from  Abian  Kapas  Kaja  Gamelan  Kebyar
